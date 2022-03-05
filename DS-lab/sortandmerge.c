@@ -1,25 +1,3 @@
-sortandmerge.c
-Who has access
-Not shared
-System properties
-Type
-C
-Size
-915 bytes
-Storage used
-915 bytes
-Location
-24/11/2021
-Owner
-me
-Modified
-Dec 5, 2021 by me
-Opened
-8:04 AM by me
-Created
-Dec 5, 2021 with Google Drive Web
-Add a description
-Viewers can download
 #include<stdio.h>
 void main()
 {
@@ -47,7 +25,7 @@ for(int i=0;i<arr1;i++)
   }
   printf("The merged array is:\n");
   for(int i=0;i<arr3;i++)
-  printf("%d",c[i]);
+  printf("\t%d",c[i]);
 
   printf("\nAfter sorting the array will be:\n");
   for(int i=0;i<arr3;i++)
@@ -65,7 +43,7 @@ for(int i=0;i<arr1;i++)
   }
   for(int i=0;i<arr3;i++)
   {
-  printf("%d",c[i]);
+  printf("\t%d",c[i]);
   }
 
 }

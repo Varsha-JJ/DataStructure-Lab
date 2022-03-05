@@ -1,25 +1,3 @@
-stackusingLL.c
-Who has access
-Not shared
-System properties
-Type
-C
-Size
-1 KB
-Storage used
-1 KB
-Location
-24/11/2021
-Owner
-me
-Modified
-Dec 5, 2021 by me
-Opened
-8:05 AM by me
-Created
-Dec 5, 2021 with Google Drive Web
-Add a description
-Viewers can download
 #include<stdio.h>
 #include<stdlib.h>
 void push();
